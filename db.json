@@ -10,12 +10,12 @@
     },
      "333334444455555" : {
       "id": 1,
-      "name": "Masters India Private Limited",
-      "status": "Active",
-      "address": "K-37, floor, Mandoli Industry Area, North East, Delhi, Delhi, 110093",
-      "tax_payer_type": "Regular",
+      "name": "New Master India Private Limited",
+      "status": "Deactivate",
+      "address": "19/H, Mominpore Area, Kolkata, West Bengal, 700135",
+      "tax_payer_type": "Irregular",
       "business_type": "Private Limited Company",
-      "date_of_reg": "25/08/2021"
+      "date_of_reg": "25/08/1998"
     }
 
 }

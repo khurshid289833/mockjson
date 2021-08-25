@@ -7,6 +7,15 @@
       "tax_payer_type": "Regular",
       "business_type": "Private Limited Company",
       "date_of_reg": "25/08/2021"
+    },
+     "333334444455555" : {
+      "id": 1,
+      "name": "Masters India Private Limited",
+      "status": "Active",
+      "address": "K-37, floor, Mandoli Industry Area, North East, Delhi, Delhi, 110093",
+      "tax_payer_type": "Regular",
+      "business_type": "Private Limited Company",
+      "date_of_reg": "25/08/2021"
     }
 
 }
